@@ -1,7 +1,8 @@
 # kg_meladl_2021
-========================
-RUNNING
-========================
+
+
+
+***RUNNING***
 To run the project from the command line, go to the dist folder and
 type the following:
 
@@ -11,9 +12,13 @@ Example:
 
 java -jar "Main.jar" "123" "321"
 
-========================
-DESCRIPTION
-========================
+
+
+
+
+
+***DESCRIPTION***
+
 Author: Mohamed Eladl
 
 Project Description: Program to check if one-to-one character mapping exists in two given strings.
